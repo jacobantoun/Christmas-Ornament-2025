@@ -14,5 +14,5 @@ The ornament makes use of the AVRs built in sleep functionality. I have ornament
 Press the button and the LEDs will do stuffs
 ## Programming
 Source code can be found in the repo. The PCB contains a 2x3 pinheader for use with the Atmel ICE. The header is correct for the included 10 pin adapter cable. The PCB is also labeled with the appropriate UPDI pins.
-## Building the ornaments
+## Building the Ornaments
 Remind me next year to let JLCPCB assemble these... and to not use through-hole components. I wanted to save money by soldering the thru-hole components myself, but bending, placing, soldering, and snipping all the leads took forever. There is something satisfying about assembling these all myself though.
