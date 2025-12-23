@@ -1,4 +1,5 @@
 # Jacob's Somewhat Yearly Christmas Ornament PCB
+![Image](https://github.com/user-attachments/assets/681836ce-5408-4143-9186-32aff76ee0c2)
 ## About this Ornament
 Each year I try to design a Christmas themed PCB and often get carried away trying to make them fancier than they need to be. This year I just stuck with creating a basic PCB with minimial functionality that's hard to mess up. I had a bunch of 3mm LEDs laying around and a couple sleeves of the Atmel (Microchip) ATTiny816 laying around waiting to be used.
 The ornament makes use of the AVRs built in sleep functionality. I have ornaments from a few years ago that still have the original battery because of how good the sleep mode is.
